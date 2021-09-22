@@ -1,5 +1,5 @@
 ---
-title: Oficinas de Laboratorio Farmaceutico
+title: Oficinas de laboratorio Farmaceutico
 date: '2019-03-30'
 thumb_img_path: /images/Captura de Pantalla 2021-09-21 a la(s) 7.35.59 p.m.png
 thumb_img_alt: A white modern house
