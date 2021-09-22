@@ -1,9 +1,5 @@
 ---
 title: Privado de Notaria
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2019-03-30'
 thumb_img_path: /images/Captura de Pantalla 2021-09-21 a la(s) 7.35.59 p.m.png
 thumb_img_alt: A white modern house
