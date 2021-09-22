@@ -1,10 +1,10 @@
 ---
 title: Home
 has_intro: true
-intro_content: |
-  Somos una empresa dedicada al desarrollo residencial, comercial y corporativo.
+intro_content: >+
+  Somos una empresa dedicada al desarrollo residencial, comercial y corporativo,
+  especializados en el Diseño y Construcción
 
-  Especializados en el Diseño y Construcción
 intro_actions:
   - label: Acerca de Nosotros
     url: /about
