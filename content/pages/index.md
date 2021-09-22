@@ -12,7 +12,7 @@ intro_actions:
   - label: Acerca de Nosotros
     url: /about
     style: primary
-  - label: Contact
+  - label: Contacto
     url: /contact
     style: secondary
 has_more_link: true
