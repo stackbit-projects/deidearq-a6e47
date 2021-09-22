@@ -34,7 +34,9 @@ seo:
 layout: post
 subtitle: >-
   Work station para 6 personas y al fondo uno de los privados, área que está
-  conectada directamente con acceso a las oficinas. 
+  conectada directamente con acceso a las oficinas. Acceso, privado principal, y
+  área de cocina, espacios en los que se utilizó cancelería de piso a techo de 9
+  mm y templados.
 ---
 
 **Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
