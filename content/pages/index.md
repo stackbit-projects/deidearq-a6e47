@@ -9,7 +9,7 @@ intro_content: >+
   Especializados en el Diseño y Construcción
 
 intro_actions:
-  - label: Learn More
+  - label: 'Quienes '
     url: /about
     style: primary
   - label: Contact
