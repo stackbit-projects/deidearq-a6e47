@@ -42,7 +42,7 @@ excerpt: >-
   El detalle de iluminación por debajo da la impresión de que esta flotando y la
   iluminación interior es un tanto animado ya que es diversa y se puede manejar
   por tiempos. El material que cubre el exterior es un granito absoluto y en el
-  piso se utilizó un granito negro flameadoselladoen untononatural.
+  piso se utilizó un granito negro flameado sellado en un tono natural.
 ---
 
 In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
