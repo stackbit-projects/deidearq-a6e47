@@ -28,7 +28,7 @@ export default class Home extends React.Component {
                     <div className="post-card-content">
                         <header className="post-header">
                             <div className="post-meta">
-                                <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                                
                             </div>
                             <h2 className="post-title">
                                 <Link href={postUrl}>{title}</Link>
