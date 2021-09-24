@@ -33,8 +33,8 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  Workstation para 6 personas y al fondo uno de los privados, área que está
-  conectada directamente con acceso a las oficinas. el acceso al privado
+  Estación de trabajo para 6 personas y al fondo uno de los privados, área que
+  está conectada directamente con acceso a las oficinas. el acceso al privado
   principal y área de cocina, espacios en los que se utilizó cancelería de piso
   a techo de 9 mm y templados.
 ---
