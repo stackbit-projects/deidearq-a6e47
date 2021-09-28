@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  Se realiza mantenimiento en herrería de fachada en casa habitación de Santa
+  Se realiza mantenimiento en herrería de fachada en casa habitación en Santa
   Fe  
 ---
 
