@@ -1,5 +1,5 @@
 ---
-title: Remodelación de fachada en
+title: Remodelación de fachada en casa habitacio
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
