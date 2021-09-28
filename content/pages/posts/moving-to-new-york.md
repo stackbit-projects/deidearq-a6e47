@@ -1,5 +1,5 @@
 ---
-title: Mantenimiento de herreria en casa - habitación
+title: Mantenimiento de herrería en casa - habitación
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
