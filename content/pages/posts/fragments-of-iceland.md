@@ -36,7 +36,9 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-excerpt: 'Se hace el mantenimiento de '
+excerpt: >-
+  Se hace el mantenimiento de filtracion de humedad en casa habitación en Santa
+  Fe
 ---
 
 **Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
